@@ -1,2 +1,6 @@
+# IDE files
+/.idea/
 # Project exclude paths
 /venv/
+# Generated files
+*.csv
